@@ -6,7 +6,7 @@ def ola_mundo():
 
 
 def saudar(nome):
-    return "Olá, " + "nome" + "!"
+    return "Olá, " + nome + "!"
 
 
 def despedir(nome):
